@@ -1,0 +1,23 @@
+.cart_count{
+    position: absolute;
+    top: 6em;
+    right: 8em;
+    width: 30px;
+    height: 4vh;
+    background: yellow;
+    border-radius: 1rem;
+    
+}
+
+
+.cart_count p{
+  display:  flex;
+    justify-content: center;
+
+}
+ 
+  
+  
+  
+  
+
